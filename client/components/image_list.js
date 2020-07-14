@@ -8,3 +8,5 @@ const ImageList = () => {
       </ul>
   );
 };
+
+export default ImageList;
